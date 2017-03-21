@@ -12,7 +12,7 @@ return ShoppingListService.getItems();
 }]
 
 
-Example Site:  https://lpm0073.github.io/jhu-course5-module3-lecture37/
+Example Site:  https://lpm0073.github.io/jhu-course5-module3-lecture38/
 
 Lecture:
-https://www.coursera.org/learn/single-page-web-apps-with-angularjs/lecture/SgeMQ/lecture-37-part-2-routing-state-with-controller
+https://www.coursera.org/learn/single-page-web-apps-with-angularjs/lecture/OupEk/lecture-38-part-2-routing-state-with-resolve
